@@ -1,0 +1,39 @@
+English
+
+tooltips.add_task                       Add new task
+tooltips.add_category                   Add new category (IN PROGRESS, NOW JUST KICK U OUT OF APP)
+tooltips.change_language                Change language
+tooltips.swap_to_dark_theme             Swap to <b>DARK</b> theme
+tooltips.swap_to_light_theme            Swap to <b>LIGHT</b> theme
+
+gui.titles.data_prompt                  Data prompt...
+gui.titles.main_window                  Task Manager
+
+gui.tasks.management.delete.name        Task deletion
+gui.tasks.management.delete.desc        Are you sure that you want to delete this task?|It's name: {}
+
+gui.tasks.columns.awaits                Awaits
+gui.tasks.columns.in_process            In process
+gui.tasks.columns.finished              Finished
+
+gui.tasks.labels.no_desc                Description not provided by the user
+gui.tasks.labels.completed              Competed task "{}"
+gui.tasks.labels.completed_with_reward  Competed task "{}" and got "{}"
+gui.tasks.labels.reward.name            Reward
+gui.tasks.labels.reward.desc            You got reward for this task:
+
+warnings.no_title_for_task.name         Some data missing
+warnings.no_title_for_task.desc         Please, input "title" for your task (required)
+
+sys.autosave                            Auto-saving...
+sys.save                                Tasks saved
+
+gui.tasks.icon_tags.name                Icon-tags
+gui.tasks.icon_tags.item.worker         Business / Work
+gui.tasks.icon_tags.item.vacation       Holidays / Vacation
+
+form.title                              Title of task
+form.description                        Description of task
+form.reward                             Reward
+form.create                             Create
+form.cancel                             Cancel

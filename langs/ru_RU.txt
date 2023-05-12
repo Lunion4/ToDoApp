@@ -1,0 +1,40 @@
+Русский
+
+tooltips.add_task                       Добавить новое задание
+tooltips.add_category                   Добавить новую категорию (В РАЗРАБОТКЕ, СЕЙЧАС ПРОСТО ВЫКИДЫВАЕТ ИЗ ПРИЛОЖЕНИЯ)
+tooltips.change_language                Сменить язык
+tooltips.swap_to_dark_theme             Переключить на <b>ТЕМНУЮ</b> тему
+tooltips.swap_to_light_theme            Переключить на <b>СВЕТЛУЮ</b> тему
+
+gui.titles.data_prompt                  Ввод данных
+gui.titles.main_window                  Менеджер задач
+gui.titles.language_selection           Выбор языка
+
+gui.tasks.management.delete.name        Удаление задачи
+gui.tasks.management.delete.desc        Вы уверены, что хотите удалить эту задачу?|Её название: {}
+
+gui.tasks.columns.awaits                В ожидании
+gui.tasks.columns.in_process            В процессе
+gui.tasks.columns.finished              Завершено
+
+gui.tasks.labels.no_desc                Описание не предоставлено пользователем
+gui.tasks.labels.completed              Завершена задача "{}"
+gui.tasks.labels.completed_with_reward  Завершена задача "{}" и получено "{}"
+gui.tasks.labels.reward.name            Награда
+gui.tasks.labels.reward.desc            Получена награда за задачу:
+
+warnings.no_title_for_task.name         Недостаточно информации
+warnings.no_title_for_task.desc         Пожалуйста, введите параметра "Название" (обязательно)
+
+sys.autosave                            Авто-сохранение...
+sys.save                                Задачи сохранены
+
+gui.tasks.icon_tags.name                Иконко-теги
+gui.tasks.icon_tags.item.worker         Дело / Работа
+gui.tasks.icon_tags.item.vacation       Праздники / Отпуск
+
+form.title                              Название задачи
+form.description                        Описание
+form.reward                             Награда
+form.create                             Создать
+form.cancel                             Отмена

@@ -1,0 +1,32 @@
+Беларускі
+
+tooltips.add_task                       Дадаць новую задачу
+tooltips.add_category                   Дадаць новую катэгорыю (выключаецца, зараз проста выкінеце вас з праграмы)
+tooltips.change_language                Змяніць мову
+tooltips.swap_to_dark_theme             Пераключыцеся на <b>цёмную</b> тэму
+tooltips.swap_to_light_theme            Перайсці да <b>светлай</b> тэмы
+gui.titles.data_prompt                  Запыт дадзеных...
+gui.titles.main_window                  Дыспетчар задач
+gui.tasks.management.delete.name        Выдаленне задачы
+gui.tasks.management.delete.desc        Вы ўпэўнены, што жадаеце выдаліць гэту задачу?
+
+gui.tasks.columns.awaits                Чакае
+gui.tasks.columns.in_process            У працэсе
+gui.tasks.columns.finished              Скончана
+gui.tasks.labels.no_desc                Апісанне не прадастаўлена карыстальнікам
+gui.tasks.labels.completed              Выкананае заданне "{}"
+gui.tasks.labels.completed_with_reward  Выканалі заданне "{}" і атрымалі "{}"
+gui.tasks.labels.reward.name            Узнагарода
+gui.tasks.labels.reward.desc            Вы атрымалі ўзнагароду за гэта заданне:
+warnings.no_title_for_task.name         Адсутнічаюць некаторыя даныя
+warnings.no_title_for_task.desc         Калі ласка, увядзіце "назва" для вашай задачы (абавязкова)
+sys.autosave                            Аўтазахаванне...
+sys.save                                Заданні захаваны
+gui.tasks.icon_tags.name                Значкі-тэгі
+gui.tasks.icon_tags.item.worker         Бізнес / праца
+gui.tasks.icon_tags.item.vacation       Канікулы / канікулы
+form.title                              Назва задачы
+form.description                        Апісанне задачы
+form.reward                             Узнагарода
+form.create                             Ствараць
+form.cancel                             Адмяніць

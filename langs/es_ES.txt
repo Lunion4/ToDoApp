@@ -1,0 +1,32 @@
+español
+
+tooltips.add_task Agregar nueva tarea
+tooltips.add_category                                                   Agregar nueva categoría (en curso, ahora solo sácate de la aplicación)
+tooltips.change_language                                                    Cambiar idioma
+tooltips.swap_to_dark_theme                                                 Cambiar a tema <b>oscuro</b>
+tooltips.swap_to_light_theme                                                    Cambiar al tema <b>light</b>
+gui.titles.data_prompt                                                  Indicación de datos...
+gui.titles.main_window                                                  Administrador de tareas
+gui.tasks.management.delete.name                                                    Eliminación de tareas
+gui.tasks.management.delete.desc                                                    ¿está seguro de que desea eliminar esta tarea?
+
+gui.tasks.columns.awaits                                                    Espera
+gui.tasks.columns.in_process                                                    En proceso
+gui.tasks.columns.finished                                                  Acabado
+gui.tasks.labels.no_desc                                                    Descripción no proporcionada por el usuario
+gui.tasks.labels.completed                                                  Tarea completada "{}"
+gui.tasks.labels.completed_with_reward                                                  Tarea completada "{}" y obtenido "{}"
+gui.tasks.labels.reward.name                                                    Premio
+gui.tasks.labels.reward.desc                                                    Obtuviste una recompensa por esta tarea:
+warnings.no_title_for_task.name                                                 Faltan algunos datos
+warnings.no_title_for_task.desc                                                 Por favor, ingrese "título" para su tarea (requerido)
+sys.autosave                                                    Guardado automático...
+sys.save                                                    Tareas guardadas
+gui.tasks.icon_tags.name                                                    Etiquetas de iconos
+gui.tasks.icon_tags.item.worker                                                 Negocios / trabajo
+gui.tasks.icon_tags.item.vacation                                                   Festivos / vacaciones
+form.title                                                  Título de la tarea
+form.description                                                    Descripción de la tarea
+form.reward                                                 Premio
+form.create                                                 Crear
+form.cancel                                                 Cancelar
